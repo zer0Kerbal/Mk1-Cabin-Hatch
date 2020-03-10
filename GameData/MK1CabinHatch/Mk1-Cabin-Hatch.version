@@ -1,0 +1,18 @@
+
+{
+	"NAME":"Mk1-Cabin-Hatch",
+	"URL":"https://raw.githubusercontent.com/skalou/Mk1-Cabin-Hatch/master/Mk1-Cabin-Hatch__KSP-AVC",
+	"VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":2,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":1
+	}
+}
